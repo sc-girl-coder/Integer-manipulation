@@ -1,0 +1,2 @@
+# Integer-manipulation
+ Program will ask the user to input an integer and then will ask  what integer manipulation the user wants to perform on the integer:  Finding out if the integer is a multiple of 7, 11, or 13.  If the sum of the numbers digits if even or odd.  What the square root it.  If the number is prime or not.  or If the number is perfect.  Then it will ask the user if they want to run another operation or terminate the program.
